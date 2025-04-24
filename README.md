@@ -1,5 +1,5 @@
 
-Hi everyone, I'm Mark Recio and I'm excited to be joining the GitHub community!
+Hi everyone, I'm excited to be joining the GitHub community!
 I'm deeply passionate about data science and its potential to revolutionize various fields.
 My particular interest lies in applying data-driven insights to areas like human resources,
 business analysis, and data analysis. I believe that by leveraging the power of data,
